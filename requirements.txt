@@ -3,4 +3,4 @@ pandas
 yfinance
 datetime
 Prophet
-
+plotly
